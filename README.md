@@ -19,6 +19,24 @@ The following **required** functionality is completed:
 
 ## App Brainstorming (Step 4)
 
+1. DuoLingo
+   - Time efficient learning intervals.
+   - Advanced modules on grammar and vocabulary.
+   - Leaderboards and avatar customizations.
+2. Youtube
+   - #1 video streaming platform.
+   - Video/Channel recommendation algorithms.
+3. Notion
+   - Can keep track of desktop notes and databases from my phone.
+
+  ---
+  EcoPulse
+#### Overview:
+AI development, while transformative, is accelerating environmental damage due to the energy demands of training and running large models. The faster we move toward solutions that emphasize preferred models—systems that learn user familiarity and deliver more efficient, tailored responses—the sooner we can reduce waste and make AI more sustainable for the world.
+#### App Idea:
+One concept I’d like to build is a utility SMS messaging app that enables communication across multiple proprietary AI models. Instead of relying on cluttered interfaces with side navigations, chat histories, or extra utilities, the app would simplify interaction by letting users text AI models from providers like OpenAI, Anthropic, and Google directly.
+Functioning like a router switch, the app would connect to these different AI models through a single number and webhook, allowing the user to seamlessly select and switch between models. The result is a lightweight, streamlined way to engage with multiple AI systems without unnecessary overhead.
+
 ## Notes
 
 Describe any challenges encountered while building the app.
